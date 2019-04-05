@@ -5,6 +5,7 @@ import App from './App.vue';
 import router from './router';
 import store from './store';
 import 'buefy/dist/buefy.css';
+import '@fortawesome/fontawesome-free/css/all.css';
 import './registerServiceWorker';
  
 Vue.use(Buefy);

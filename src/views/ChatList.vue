@@ -1,14 +1,5 @@
-Default
-
-1
-2
-3
-4
-5
-6
-7
 <template>
-  <span>Home</span>
+  <span>ChatList</span>
 </template>
  
 <script>
